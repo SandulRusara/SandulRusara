@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishan Tharaka</h1>
+<h1 align="center">Hi 👋, I'm Sandul Rusara</h1>
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=30&duration=3000&pause=800&color=1BCDFF&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+my+Github+Profile!;Web+Developer;Backend+Development" alt="devtech77snake" /></a>
 </p>
@@ -9,10 +9,10 @@
 <br>
 <br>
 
-![About Me](Asserts/abutme.webp)
+![About Me](Asserts/DALL·E%202024-11-19%2009.55.54%20-%20A%20diverse%20group%20of%20software%20developers%20collaborating%20around%20a%20table%20with%20laptops%20and%20coding%20materials.%20The%20developers%20have%20varied%20appearances,%20includi.webp)
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayawickrma" alt="jayawickrma" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sandul Rusara" alt="Sandul Rusara" /></a> </p>
 
 # Connect With me:
 <br>
@@ -55,7 +55,7 @@
 ![Postman](https://skillicons.dev/icons?i=postman)
 <br>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayawickrma&show_icons=true&locale=en&layout=compact" alt="jayawickrma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandul rusara&show_icons=true&locale=en&layout=compact" alt="Sandul Rusara" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayawickrma&show_icons=true&locale=en" alt="jayawickrma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayawickrama&" alt="jayawickrama" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sandul Rusara&show_icons=true&locale=en" alt="Sandul Rusara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sandul Rusara&" alt="Sandul Rusara"/></p>
